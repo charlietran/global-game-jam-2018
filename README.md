@@ -1,5 +1,5 @@
 # Dancemission
-A game made for the 2018 Global Game Jam, developed on site at the NYU Game Center
+A game made for the 2018 [Global Game Jam](https://globalgamejam.org/), developed on site at the [NYU Game Center](http://gamecenter.nyu.edu/) in Brooklyn
 
 # Team
 * [Preston Hale](https://github.com/prestonhale) - Programmer (Dancers, Controls, Scoring)  
